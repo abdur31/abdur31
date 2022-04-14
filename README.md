@@ -1,5 +1,7 @@
 ![Web Developer](https://scontent.fbzl4-1.fna.fbcdn.net/v/t39.30808-6/278023655_1022232532065665_2632564021782315925_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGvHkNdJveqmWiPlEJAjWwF1ZifexrCcD3VmJ97GsJwPa5GfAmcXjT99MTgSuF7ZjBnh7wUsOS-GvitwDCZdcrH&_nc_ohc=WNIYR_Ay5l8AX9SC4zz&_nc_ht=scontent.fbzl4-1.fna&oh=00_AT97oGAISFy7lbWTf_2KbA-Q9MQT4Nk30NkdSgRbu6KK6Q&oe=625CFDF6)
- 
+
+![Profile views](https://gpvc.arturio.dev/abdur31)  
+
 ### Hi there 👋, I'm Abdur Rahman
 #### Web Developer
 
@@ -21,13 +23,10 @@ Skills: HTML / CSS/ BOOTSTRAP/ WORDPRESS/ PHP/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur31)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdur31&show_icons=true&count_private=true) 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdur31&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdur31)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abdur31)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdur31)  
-
-![Profile views](https://gpvc.arturio.dev/abdur31)  
